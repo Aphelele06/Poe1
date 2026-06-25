@@ -37,3 +37,6 @@ Database storage verification
 All features operate successfully without runtime errors.
 9. CONCLUSION
 The Cybersecurity Awareness Bot successfully demonstrates a functional, interactive system with database integration and user engagement features.
+Authour
+Aphelele Buhlebakhe Jili
+ST10471658
