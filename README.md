@@ -28,12 +28,3 @@ C# WPF
 MySQL Database
 Visual Studio
 .NET Framework
-8. TESTING
-The system was tested using multiple scenarios including:
-Chatbot commands
-Task creation and deletion
-Quiz execution
-Database storage verification
-All features operate successfully without runtime errors.
-9. CONCLUSION
-The Cybersecurity Awareness Bot successfully demonstrates a functional, interactive system with database integration and user engagement features.
